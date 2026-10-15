@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Is document mein kaunsi programming languages hain?",
+    "expected_pages": [1],
+    "must_include": ["python"],
+    "in_scope": true
+  },
+  {
+    "question": "Candidate ne kis university se degree li?",
+    "expected_pages": [2],
+    "must_include": ["university"],
+    "in_scope": true
+  },
+  {
+    "question": "Pakistan ka capital kya hai?",
+    "expected_pages": [],
+    "must_include": [],
+    "in_scope": false
+  },
+  {
+    "question": "Bitcoin ki aaj ki price kya hai?",
+    "expected_pages": [],
+    "must_include": [],
+    "in_scope": false
+  }
+]

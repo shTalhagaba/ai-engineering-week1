@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyc
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets and local RAG data
+.env
+index/
+uploads/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

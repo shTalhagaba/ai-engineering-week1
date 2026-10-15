@@ -1,0 +1,10 @@
+.env
+.env.*
+.git
+.venv
+__pycache__
+**/__pycache__
+*.py[cod]
+index/
+uploads/
+.DS_Store
